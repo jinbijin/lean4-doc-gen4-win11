@@ -1,0 +1,10 @@
+name = "doc-gen4-win11"
+version = "0.1.0"
+defaultTargets = ["doc-gen4-win11"]
+
+[[lean_lib]]
+name = "DocGen4Win11"
+
+[[lean_exe]]
+name = "doc-gen4-win11"
+root = "Main"
