@@ -8,3 +8,8 @@ name = "DocGen4Win11"
 [[lean_exe]]
 name = "doc-gen4-win11"
 root = "Main"
+
+[[require]]
+scope = "fgdorais"
+name = "lean4-unicode-basic"
+rev = "v1.2.4"
